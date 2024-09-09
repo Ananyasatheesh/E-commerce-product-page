@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Simple E-commerce Product Page
 
@@ -12,6 +12,7 @@ This project is a simple e-commerce product page designed to showcase a product 
  - [Features](#features)
  - [Tech Stack](#tech-stack)
  - [Installation](#installation)
+ - [Live project](#live-project)
 ## Features
 
 - **Product Overview**: A section with the product image, name, and short description.
@@ -31,7 +32,7 @@ This project is a simple e-commerce product page designed to showcase a product 
 ## Installation
 
 To run the project, simply open the  ```index.html ```file in browser.
-    
-=======
-# E-commerce-product-page
->>>>>>> a96d4f1076bedf023e52bd818c2867cce8d50b39
+
+## Live project
+
+To see the output of the project, click on to [Simple Cart](#https://ananyasatheesh.github.io/E-commerce-product-page/)
