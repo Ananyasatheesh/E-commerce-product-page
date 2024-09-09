@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Simple E-commerce Product Page
 
@@ -31,3 +32,6 @@ This project is a simple e-commerce product page designed to showcase a product 
 
 To run the project, simply open the  ```index.html ```file in browser.
     
+=======
+# E-commerce-product-page
+>>>>>>> a96d4f1076bedf023e52bd818c2867cce8d50b39
